@@ -10,3 +10,6 @@
 [submodule "plugins/ctrlp.vim"]
 	path = plugins/ctrlp.vim
 	url = git@github.com:ctrlpvim/ctrlp.vim.git
+[submodule "plugins/vim-commentary"]
+	path = plugins/vim-commentary
+	url = git@github.com:tpope/vim-commentary.git
