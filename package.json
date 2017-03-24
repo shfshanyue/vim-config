@@ -1,0 +1,10 @@
+{
+  "name": "vim-config",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "install": "echo hello"
+  },
+  "author": "shfshanyue",
+  "license": "ISC"
+}
