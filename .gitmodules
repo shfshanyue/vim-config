@@ -13,3 +13,6 @@
 [submodule "plugins/vim-commentary"]
 	path = plugins/vim-commentary
 	url = git@github.com:tpope/vim-commentary.git
+[submodule "plugins/vim-fugitive"]
+	path = plugins/vim-fugitive
+	url = git@github.com:tpope/vim-fugitive.git
