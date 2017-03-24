@@ -1,4 +1,4 @@
-set rtp+=~/.vim-config/plugins/vim-pathgen
+set rtp+=~/.vim-config/plugins/vim-pathogen
 
 call pathogen#infect('~/.vim-config/plugins/{}')
 call pathogen#helptags()
@@ -11,3 +11,4 @@ let g:NERDTreeWinSize=35
 map <leader>nn :NERDTreeToggle<cr>
 map <leader>nb :NERDTreeFromBookmark
 map <leader>nf :NERDTreeFind<cr>
+
