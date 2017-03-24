@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "install": "cat basic.vim plugins.vim > ~/.vimrc"
+    "install": "cat basic.vim plugins.vim my-config.vim > ~/.vimrc"
   },
   "author": "shfshanyue",
   "license": "ISC"
