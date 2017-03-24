@@ -4,3 +4,9 @@
 [submodule "plugins/nerdtree"]
 	path = plugins/nerdtree
 	url = git@github.com:scrooloose/nerdtree.git
+[submodule "plugins/ag.vim"]
+	path = plugins/ag.vim
+	url = git@github.com:rking/ag.vim.git
+[submodule "plugins/ctrlp.vim"]
+	path = plugins/ctrlp.vim
+	url = git@github.com:ctrlpvim/ctrlp.vim.git
