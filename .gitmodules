@@ -34,3 +34,6 @@
 [submodule "plugins/vim-javascript"]
 	path = plugins/vim-javascript
 	url = git@github.com:pangloss/vim-javascript.git
+[submodule "plugins/vim-jsx"]
+	path = plugins/vim-jsx
+	url = git@github.com:mxw/vim-jsx.git
