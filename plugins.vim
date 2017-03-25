@@ -25,3 +25,8 @@ let g:ctrlp_custom_ignore = 'node_modules\|^\.DS_Store\|^\.git\|^\.coffee'
 let g:solarized_termcolors=256
 set background=light
 colorscheme solarized
+
+" => lightline
+let g:lightline = {
+      \ 'colorscheme': 'solarized',
+      \ }

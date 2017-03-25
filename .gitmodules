@@ -25,3 +25,6 @@
 [submodule "plugins/goyo.vim"]
 	path = plugins/goyo.vim
 	url = git@github.com:junegunn/goyo.vim.git
+[submodule "plugins/lightline.vim"]
+	path = plugins/lightline.vim
+	url = git@github.com:itchyny/lightline.vim.git
