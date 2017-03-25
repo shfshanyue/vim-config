@@ -37,3 +37,6 @@
 [submodule "plugins/vim-jsx"]
 	path = plugins/vim-jsx
 	url = git@github.com:mxw/vim-jsx.git
+[submodule "plugins/delimitMate"]
+	path = plugins/delimitMate
+	url = git@github.com:Raimondi/delimitMate.git
