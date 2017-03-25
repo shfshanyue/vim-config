@@ -31,3 +31,6 @@
 [submodule "plugins/emmet-vim"]
 	path = plugins/emmet-vim
 	url = git@github.com:mattn/emmet-vim.git
+[submodule "plugins/vim-javascript"]
+	path = plugins/vim-javascript
+	url = git@github.com:pangloss/vim-javascript.git
