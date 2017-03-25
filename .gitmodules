@@ -19,3 +19,6 @@
 [submodule "plugins/vim-colors-solarized"]
 	path = plugins/vim-colors-solarized
 	url = git@github.com:altercation/vim-colors-solarized.git
+[submodule "plugins/vim-multiple-cursors"]
+	path = plugins/vim-multiple-cursors
+	url = git@github.com:terryma/vim-multiple-cursors.git
