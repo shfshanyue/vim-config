@@ -28,3 +28,6 @@
 [submodule "plugins/lightline.vim"]
 	path = plugins/lightline.vim
 	url = git@github.com:itchyny/lightline.vim.git
+[submodule "plugins/emmet-vim"]
+	path = plugins/emmet-vim
+	url = git@github.com:mattn/emmet-vim.git
