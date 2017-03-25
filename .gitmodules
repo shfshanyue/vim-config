@@ -22,3 +22,6 @@
 [submodule "plugins/vim-multiple-cursors"]
 	path = plugins/vim-multiple-cursors
 	url = git@github.com:terryma/vim-multiple-cursors.git
+[submodule "plugins/goyo.vim"]
+	path = plugins/goyo.vim
+	url = git@github.com:junegunn/goyo.vim.git
