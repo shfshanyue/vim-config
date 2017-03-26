@@ -22,7 +22,6 @@ let g:ctrlp_max_height = 15
 let g:ctrlp_custom_ignore = 'node_modules\|^\.DS_Store\|^\.git\|^\.coffee'
 
 " => Solarized Theme
-let g:solarized_termcolors=256
 set background=light
 colorscheme solarized
 
