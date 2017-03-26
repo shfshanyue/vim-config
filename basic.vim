@@ -164,3 +164,5 @@ endtry
 au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
 
 set laststatus=2
+
+set term=screen-256color
