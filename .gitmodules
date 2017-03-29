@@ -40,3 +40,6 @@
 [submodule "plugins/delimitMate"]
 	path = plugins/delimitMate
 	url = git@github.com:Raimondi/delimitMate.git
+[submodule "plugins/vim-markdown"]
+	path = plugins/vim-markdown
+	url = git@github.com:plasticboy/vim-markdown.git
