@@ -46,3 +46,6 @@
 [submodule "plugins/vim-pug"]
 	path = plugins/vim-pug
 	url = git@github.com:digitaltoad/vim-pug.git
+[submodule "plugins/vim-json"]
+	path = plugins/vim-json
+	url = git@github.com:elzr/vim-json.git
