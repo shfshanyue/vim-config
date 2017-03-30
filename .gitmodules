@@ -43,3 +43,6 @@
 [submodule "plugins/vim-markdown"]
 	path = plugins/vim-markdown
 	url = git@github.com:plasticboy/vim-markdown.git
+[submodule "plugins/vim-pug"]
+	path = plugins/vim-pug
+	url = git@github.com:digitaltoad/vim-pug.git
