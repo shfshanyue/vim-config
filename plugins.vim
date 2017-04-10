@@ -27,8 +27,15 @@ colorscheme solarized
 
 " => lightline
 let g:lightline = {
-      \ 'colorscheme': 'solarized',
-      \ }
+\ 'colorscheme': 'solarized',
+\ }
 
 " => vim-jsx
 let g:jsx_ext_required = 0
+
+" => vim-emmet
+let g:user_emmet_settings = {
+\  'javascript.jsx' : {
+\      'extends' : 'jsx',
+\  },
+\}
