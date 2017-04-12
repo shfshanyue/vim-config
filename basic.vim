@@ -60,3 +60,6 @@ autocmd BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "norm
 
 set laststatus=2
 set foldmethod=syntax
+
+set undofile
+set undodir+=~/.vim-config/tmp/undo
