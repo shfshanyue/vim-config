@@ -80,4 +80,4 @@ set foldmethod=syntax
 
 " 多文件操作时，保留操作记录(可以回退)
 set undofile
-set undodir+=~/.vim-config/tmp/undo
+set undodir=~/.vim-config/undo_dirs
