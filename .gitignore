@@ -1,1 +1,4 @@
 undo_dirs/*
+
+plugins/goyo.vim/doc
+plugins/ag.vim/.netrwhist
