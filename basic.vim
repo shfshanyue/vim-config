@@ -1,7 +1,7 @@
 " 开启缩进
 filetype plugin indent on
 
-let mapleader = ","
+let mapleader=","
 
 " ,w -> 保存
 nmap <leader>w :w!<cr>
@@ -81,3 +81,6 @@ set foldmethod=syntax
 " 多文件操作时，保留操作记录(可以回退)
 set undofile
 set undodir=~/.vim-config/undo_dirs
+
+" 开启剪切板
+" set clipboard=unnamedplus
