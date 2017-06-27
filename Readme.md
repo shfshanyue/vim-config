@@ -1,6 +1,6 @@
 # Vim config for shanyue
 
-配置使用 `pathogen` 和 `git submodules` 进行插件管理，使用本配置文件可以使您快速上手vim。本配置文件对于前端友好，前端开发者可以使用 `emmet` 可以快速编写html和css，另外有 `jsx` 与 `pug`语法高亮。本人早期使用 [amix/vimrc](https://github.com/amix/vimrc) 进行开发，深入浅出，帮助很大，非常推荐。
+配置使用 `pathogen` 和 `git submodules` 进行插件管理，使用本配置文件可以使您快速上手vim。本配置文件对于前端友好，前端开发者可以使用 `emmet` 可以快速编写html和css，另外有 `jsx` 与 `pug`语法高亮，并且可以使用 `eslint` 进行语法检查。本人早期使用 [amix/vimrc](https://github.com/amix/vimrc) 进行开发，深入浅出，帮助很大，非常推荐。
 
 欢迎 star！欢迎 pr！
 
@@ -96,6 +96,14 @@ $ git submodule update --remote
 + `:Gdiff` 查看与工作区文件的差异
 + `:Gread` 相当于 `git checkout -- file`
 + `:Gwrite` 相当于 `git add file`
+
+### [syntastic](https://github.com/vim-syntastic/syntastic)
+> 语法检查插件，设置eslint
+
++ `:SyntasticCheck` 语法检查，默认会在保存时进行语法检查，不过会有卡顿
++ `:lne[xt]` 下一处语法错误
++ `:lp[revious]` 上一处语法错误
++ `:! eslint %:p --fix` 自动修正错误
 
 ### [emmet-vim](https://github.com/mattn/emmet-vim)
 > emmet扩展

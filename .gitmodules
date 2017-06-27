@@ -49,3 +49,6 @@
 [submodule "plugins/vim-json"]
 	path = plugins/vim-json
 	url = git@github.com:elzr/vim-json.git
+[submodule "plugins/vim-syntastic"]
+	path = plugins/vim-syntastic
+	url = git@github.com:vim-syntastic/syntastic.git
