@@ -113,6 +113,7 @@ let g:ctrlp_custom_ignore = 'node_modules\|^\.DS_Store\|^\.git\|^\.coffee'
 
 " => Syntastic
 let g:syntastic_javascript_checkers = ['eslint']
+let g:syntastic_html_checkers = ['eslint']
 let g:syntastic_always_populate_loc_list = 1
 
 " => Solarized Theme
