@@ -52,3 +52,6 @@
 [submodule "plugins/vim-syntastic"]
 	path = plugins/vim-syntastic
 	url = git@github.com:vim-syntastic/syntastic.git
+[submodule "plugins/vim-jsdoc"]
+	path = plugins/vim-jsdoc
+	url = git@github.com:heavenshell/vim-jsdoc.git
