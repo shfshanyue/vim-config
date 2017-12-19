@@ -56,6 +56,8 @@ set tabstop=2
 
 set autoindent
 set smartindent
+set autoread
+au CursorHold,CursorHoldI * checktime
 
 " 自动换行
 set wrap
@@ -112,8 +114,8 @@ let g:ctrlp_max_height = 15
 let g:ctrlp_custom_ignore = 'node_modules\|^\.DS_Store\|^\.git\|^\.coffee'
 
 " => Syntastic
-let g:syntastic_javascript_checkers = ['eslint']
-let g:syntastic_html_checkers = ['eslint']
+" let g:syntastic_javascript_checkers = ['eslint']
+" let g:syntastic_html_checkers = ['eslint']
 let g:syntastic_always_populate_loc_list = 1
 
 " => Solarized Theme
