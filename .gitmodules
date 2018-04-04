@@ -55,3 +55,6 @@
 [submodule "plugins/vim-jsdoc"]
 	path = plugins/vim-jsdoc
 	url = git@github.com:heavenshell/vim-jsdoc.git
+[submodule "plugins/typescript-vim"]
+	path = plugins/typescript-vim
+	url = git@github.com:leafgarland/typescript-vim.git
