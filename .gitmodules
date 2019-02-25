@@ -58,3 +58,9 @@
 [submodule "plugins/typescript-vim"]
 	path = plugins/typescript-vim
 	url = git@github.com:leafgarland/typescript-vim.git
+[submodule "plugins/vim-go"]
+	path = plugins/vim-go
+	url = git@github.com:fatih/vim-go.git
+[submodule "plugins/vim-vue"]
+	path = plugins/vim-vue
+	url = https://github.com/posva/vim-vue.git
