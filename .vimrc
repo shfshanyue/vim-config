@@ -54,6 +54,8 @@ set smarttab
 set shiftwidth=2
 set tabstop=2
 
+" autocmd FileType markdown set shiftwidth=4 tabstop=4
+
 set autoindent
 set smartindent
 set autoread
@@ -140,3 +142,5 @@ let g:user_emmet_settings = {
 " => vim-markdown
 let g:vim_markdown_new_list_item_indent = 4
 
+let dart_style_guide = 2
+let dart_format_on_save = 1

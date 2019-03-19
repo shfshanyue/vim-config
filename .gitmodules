@@ -64,3 +64,6 @@
 [submodule "plugins/vim-vue"]
 	path = plugins/vim-vue
 	url = https://github.com/posva/vim-vue.git
+[submodule "plugins/dart-vim-plugin"]
+	path = plugins/dart-vim-plugin
+	url = https://github.com/dart-lang/dart-vim-plugin
