@@ -67,3 +67,6 @@
 [submodule "plugins/dart-vim-plugin"]
 	path = plugins/dart-vim-plugin
 	url = https://github.com/dart-lang/dart-vim-plugin
+[submodule "plugins/wakatime"]
+	path = plugins/wakatime
+	url = git://github.com/wakatime/vim-wakatime.git
